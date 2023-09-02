@@ -1,0 +1,19 @@
+.thumbnails{
+    height: 100px;
+    width: 100px;
+}
+.card{
+    width: 100%;
+}
+.card_container{
+    height: 600px ;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
